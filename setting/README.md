@@ -18,5 +18,5 @@
 #### upload files
 * check : git remote -v
   * if nothing, `git remote add origin "(my github url)"`
-* create branch : terminal > `git push origin main`
+* create branch : terminal > `git push origin [master/main]`
 * 
